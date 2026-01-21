@@ -1,0 +1,57 @@
+# BizFlow — Generative Engine Optimization Map
+
+> A business services business.
+
+---
+
+## Pages
+
+### Home
+https://bizflow-4451f833.zappy5.app
+Discover expert SEO agency near me services that deliver measurable results. Transform your digital presence with BizFlow's professional solutions.
+
+### Services
+https://bizflow-4451f833.zappy5.app/services
+Professional digital marketing agency services including SEO, social media marketing, and comprehensive business support tailored for SMBs.
+
+### About
+https://bizflow-4451f833.zappy5.app/about
+Learn about BizFlow, your trusted SEO agency near me. We're a digital marketing agency dedicated to helping SMBs achieve their business goals.
+
+### Contact
+https://bizflow-4451f833.zappy5.app/contact
+Contact BizFlow for expert SEO services and digital marketing solutions. Reach our SEO agency near me team today for a free consultation.
+
+## Legal & Policy
+
+### Privacy Policy
+https://bizflow-4451f833.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://bizflow-4451f833.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://bizflow-4451f833.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About BizFlow
+BizFlow is a business in the business services industry.
+
+## Target Audience
+SMBs
+
+## Industry
+business services
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://bizflow-4451f833.zappy5.app/sitemap.xml
+- **Robots.txt**: https://bizflow-4451f833.zappy5.app/robots.txt

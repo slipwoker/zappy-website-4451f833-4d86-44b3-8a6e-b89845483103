@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bizflow-4451f833.zappy5.app/sitemap.xml
